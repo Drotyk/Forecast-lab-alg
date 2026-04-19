@@ -1,5 +1,8 @@
 # Wheat Yield Predictor (Прогнозатор урожайності пшениці)
 
+![C++](https://img.shields.io/badge/C++-solutions-blue?logo=c%2B%2B&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-automation-brightgreen?logo=gnu&logoColor=white)
+
 Цей проект являє собою консольну програму на C++ для прогнозування врожайності пшениці на основі різних агрономічних та кліматичних факторів.
 
 ## Основні можливості
